@@ -1,7 +1,8 @@
 import csort
 from timeit import default_timer as timer 
 
-fname = "../dataset/words_320139.txt"
+#fname = "../dataset/words_320139.txt"
+fname = "../dataset/words_10000.txt"
 
 def get_words():  
   wordlist = []
